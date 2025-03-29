@@ -1,0 +1,6 @@
+pandas
+ydata_profiling
+iprogress
+tqdm
+numpy
+scikit-learn
