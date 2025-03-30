@@ -4,3 +4,4 @@ iprogress
 tqdm
 numpy
 scikit-learn
+requirements
